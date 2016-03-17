@@ -1,0 +1,20 @@
+/* This is the style sheet is for rembesha'ng my web pages */
+body {
+    width: 600px;
+background-color: aliceblue
+color: black; /* This is the font color */
+font: sans-serif;
+border: 5px;
+padding: 5px;
+margin: 5px;
+
+border-style: solid;
+border-color: grey;
+
+}
+div "aaa" {
+background-color: #b2b2b2;
+}
+img1.jpg {
+  float: left;
+}
