@@ -42,3 +42,12 @@ color: darkslategrey;
   background-color:whitesmoke;
     font-family: serif;
 color: darkslategrey;  
+}
+#advert{
+    height: 120px;
+    width: 600px;
+  background-color:green;
+    text-align: center;
+    font-family: serif;
+color: white; 
+}
