@@ -58,3 +58,11 @@ color: white;
 color: darkslategrey;  
     
 }
+
+#footer {
+background-color:gray;
+    font-family: sans-serif;
+color:yellow;
+    text-align:center;
+}
+    
