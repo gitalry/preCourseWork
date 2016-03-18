@@ -5,16 +5,10 @@ background-color: aliceblue
 color: black; /* This is the font color */
 font: sans-serif;
 border: 5px;
-padding: 5px;
-margin: 5px;
+padding: 2px;
+margin: 2px;
 
 border-style: solid;
 border-color: grey;
 
-}
-div "aaa" {
-background-color: #b2b2b2;
-}
-img1.jpg {
-  float: left;
 }
