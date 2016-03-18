@@ -12,3 +12,13 @@ border-style: solid;
 border-color: grey;
 
 }
+
+#head {
+background-color:gray;
+    font-family: sans-serif;
+color:yellow;
+    text-align:left;
+}
+#hh{ color: white;
+    text-align:right;
+}
