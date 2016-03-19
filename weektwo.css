@@ -18,6 +18,8 @@ background-color:gray;
     font-family: sans-serif;
 color:yellow;
     text-align:left;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 #hh{ color: white;
     text-align:right;
@@ -26,7 +28,8 @@ color:yellow;
   background-color:whitesmoke;
     font-family: serif;
 color: darkslategrey;  
-    
+  padding-top: 10px;
+    padding-bottom: 10px;  
 }
 #neck2{
   background-color:whitesmoke;
@@ -37,11 +40,18 @@ color: darkslategrey;
   background-color:whitesmoke;
     font-family: serif;
 color: darkslategrey;  
+padding-top: 10px;
+padding-bottom: 10px;
+
+}
+#img2{object-position: right;
 }
 #ribs{
   background-color:whitesmoke;
     font-family: serif;
 color: darkslategrey;  
+padding-top: 10px;
+    padding-bottom: 10px;
 }
 #advert{
     height: 120px;
@@ -50,6 +60,8 @@ color: darkslategrey;
     text-align: center;
     font-family: serif;
 color: white; 
+padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 #knees{
@@ -64,5 +76,7 @@ background-color:gray;
     font-family: sans-serif;
 color:yellow;
     text-align:center;
+padding-top: 10px;
+    padding-bottom: 10px;
 }
     
