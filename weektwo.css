@@ -1,82 +1,88 @@
 /* This is the style sheet is for rembesha'ng my web pages */
+
 body {
-    width: 600px;
-background-color: aliceblue
-color: black; /* This is the font color */
-font: sans-serif;
-border: 5px;
-padding: 2px;
-margin: 2px;
-
-border-style: solid;
-border-color: grey;
-
+    width: 100%;
+    background-color: aliceblue color: black;
+    /* This is the font color */
+    font-family: 'Oswald', sans-serif;
+    border: 5px;
+    padding: 2px;
+    margin: 2px;
+    border-style: solid;
+    border-color: grey;
 }
-
 #head {
-background-color:gray;
+    background-color: black;
     font-family: sans-serif;
-color:yellow;
-    text-align:left;
+    color: yellow;
+    text-align: left;
     padding-top: 10px;
     padding-bottom: 10px;
 }
-#hh{ color: white;
-    text-align:right;
+#hh {
+    color: white;
+    text-align: right;
 }
-#neck{
-  background-color:whitesmoke;
+#neck {
+    background-color: whitesmoke;
     font-family: serif;
-color: darkslategrey;  
-  padding-top: 10px;
-    padding-bottom: 10px;  
-}
-#neck2{
-  background-color:whitesmoke;
-    font-family: serif;
-color: darkslategrey;  
-}
-#chest{
-  background-color:whitesmoke;
-    font-family: serif;
-color: darkslategrey;  
-padding-top: 10px;
-padding-bottom: 10px;
-
-}
-#img2{object-position: right;
-}
-#ribs{
-  background-color:whitesmoke;
-    font-family: serif;
-color: darkslategrey;  
-padding-top: 10px;
+    color: darkslategrey;
+    padding-top: 10px;
     padding-bottom: 10px;
 }
-#advert{
+#neck2 {
+    background-color: whitesmoke;
+    font-family: serif;
+    color: darkslategrey;
+}
+#chest {
+    background-color: whitesmoke;
+    font-family: serif;
+    color: darkslategrey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#img2 {
+    object-position: right;
+}
+#ribs {
+    background-color: whitesmoke;
+    font-family: serif;
+    color: darkslategrey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#ribs .left {
+    text-align: left;
+    text-align: center;
+    width: 1000px;
+}
+#ribs .right {
+    text-align: right;
+}
+#ribs .right .img {
+    width: 400px;
+}
+#advert {
     height: 120px;
-    width: 600px;
-  background-color:green;
+    width: 100%;
+    background-color: green;
     text-align: center;
     font-family: serif;
-color: white; 
-padding-top: 10px;
+    color: white;
+    padding-top: 10px;
     padding-bottom: 10px;
 }
-
-#knees{
-  background-color:whitesmoke;
+#knees {
+    background-color: whitesmoke;
     font-family: serif;
-color: darkslategrey;  
-    
+    color: darkslategrey;
 }
-
 #footer {
-background-color:gray;
+    background-color: black;
     font-family: sans-serif;
-color:yellow;
-    text-align:center;
-padding-top: 10px;
+    color: yellow;
+    text-align: center;
+    padding-top: 10px;
     padding-bottom: 10px;
 }
-    
